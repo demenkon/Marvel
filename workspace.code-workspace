@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "FoodDist",
+			"path": "D:\\openserver\\domains\\FoodDist"
+		},
+		{
+			"path": "..\\React"
+		},
+		{
+			"path": "..\\ReactFirstApp"
+		},
+		{
+			"path": "..\\ReactSoloApp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CourseUdemyJS"
+	}
+}
